@@ -1,5 +1,5 @@
 {
     "version": "1.0.0",
-    "download_url": "https://github.com/amodwa/mei-tool/releases/download/v1.0.1/MEI-Tool-v1.0.1.zip",
-    "changelog": "修复了XX问题，新增了XX功能"
+    "description": "MEI工具最新版本",
+    "update_instructions": "1. 下载最新版本\n2. 解压替换原有文件\n3. 重新运行程序"
 }
