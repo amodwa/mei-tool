@@ -1,7 +1,0 @@
-{
-    "version": "1.0.1",
-    "changelog": "• 新增自动更新功能\n• 修复bug\n• 优化用户体验",
-    "download_url": "https://github.com/yourusername/mei-tool/releases/download/v1.0.1/mei-tool-v1.0.1.zip",
-    "release_date": "2025-09-5",
-    "min_required_version": "1.0.0"
-}
